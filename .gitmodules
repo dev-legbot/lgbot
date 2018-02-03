@@ -1,0 +1,12 @@
+[submodule "lgbot-crawler"]
+	path = lgbot-crawler
+	url = git@github.com:dev-legbot/lgbot-crawler.git
+[submodule "lgbot-twitterbot"]
+	path = lgbot-twitterbot
+	url = git@github.com:dev-legbot/lgbot-twitterbot.git
+[submodule "lgbot-analyze"]
+	path = lgbot-analyze
+	url = git@github.com:dev-legbot/lgbot-analyze.git
+[submodule "lgbot-judge"]
+	path = lgbot-judge
+	url = git@github.com:dev-legbot/lgbot-judge.git
